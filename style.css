@@ -1,0 +1,69 @@
+body {
+	background-image: url("8.jpeg");
+}
+
+.uvod{
+	background-color: #a82828;
+	color:black;
+	font-size: 40px;
+	margin-left: 35%;
+	margin-right: 35%;
+	padding-left: 30px;
+}
+
+.uvod1{
+	background-color: #a82828;
+	color:black;
+	font-size: 40px;
+	margin-right:300px; 
+	margin-left:300px;
+	padding-left: 30px;
+	text-align: center;
+
+
+
+}
+.rslogo{
+	width: 700px;
+	padding-left: 500px;
+	padding-top: 100px;
+}
+
+.instagram{
+	width: 40px;
+	float: right;
+	border-radius: 10px;
+	position: absolute;
+	right: 0.5%;
+	top:7px;
+
+}
+
+.traka{
+	overflow: hidden;
+	background-color: #a82828;
+	margin-right: 62.76%;
+
+
+}
+.traka a{
+	float: letf;
+	color: black;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 30px;
+}
+.traka a:hover{
+	background-color: silver;
+	color: black;
+
+
+
+}
+.traka a:active{
+	background-color:#a82828;
+	color: black;
+
+
+}
